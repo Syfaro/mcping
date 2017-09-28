@@ -1,0 +1,13 @@
+name: mcping
+version: 0.1.0
+
+authors:
+  - Syfaro <syfaro@foxpaw.in>
+
+dependencies:
+  uvarint:
+    github: freitagbr/crystal-uvarint
+
+crystal: 0.23.1
+
+license: MIT
